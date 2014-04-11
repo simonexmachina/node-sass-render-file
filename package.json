@@ -1,0 +1,25 @@
+{
+  "name": "node-sass-render-file",
+  "version": "0.0.1",
+  "description": "Adds a renderFile function to node-sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:aexmachina/node-sass-render-file.git"
+  },
+  "keywords": [
+    "node-sass"
+  ],
+  "author": "Simon Wade <simon.wade@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aexmachina/node-sass-render-file/issues"
+  },
+  "homepage": "https://github.com/aexmachina/node-sass-render-file",
+  "dependencies": {
+    "node-sass": "^0.8.1"
+  }
+}
